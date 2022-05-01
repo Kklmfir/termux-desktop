@@ -93,6 +93,8 @@ alias l='ls -CF'
 alias em='emacs -nw'
 alias _='sudo'
 alias _i='sudo -i'
+alias v='vim'
+alias kernel='uname -a'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
