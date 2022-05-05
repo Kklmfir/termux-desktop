@@ -10,7 +10,7 @@
 # - Saya menambahkan parian fitur lainnya
 # - Dan memperbaiki bug pada project ini
 # - Termux desktop ini dirilis pada Rabu,22 Des 2021
-# - Update 01/05/2022
+# - Update 09/05/2022
 clear
 #####COLOR
 w='\e[1;37m'
@@ -37,7 +37,7 @@ pkg install root-repo -y
 pkg install unstable-repo -y
 pkg install x11-repo -y 
 ##########PACKAGES MAIN
-apt install -y  curl htop wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui audaciousv qt5-qtbase-gtk-platformtheme kvantum  qt5ct qt-creator
+apt install -y  curl neofetch wget mpv-x xfce* geany thunar leafpad zenity xorg* uget ristretto galculator arqiver pinentry-gtk mtpaint imagemagick* loqui audacious* vim
 
  ##########SETUP DIR mv .themes $HOME
 
@@ -46,19 +46,19 @@ apt install -y  curl htop wget mpv-x xfce4 geany thunar geany-plugins leafpad ze
  rm -rf .local
  rm -rf .vnc
  rm -rf .cache
- rm -rf Desktop
+ # rm -rf Desktop
  #
  cd $HOME/termux-desktop/file
  mv .config $HOME
  mv .dbus $HOME
- mv .gnupg $HOME
+ # mv .gnupg $HOME
  mv .icons $HOME
  mv .image $HOME
  mv .local $HOME
  mv .themes $HOME
  mv .vnc $HOME
  mv .bashrc $HOME
- mv Desktop $HOME
+ # mv Desktop $HOME
  
  cd $HOME 
  
