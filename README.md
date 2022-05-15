@@ -54,12 +54,12 @@ chmod +x *
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WarceuProject&show_icons=true&theme=radical)<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kklmfir&show_icons=true&theme=radical)<br>
 
-#### contact me
+#### Contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/Almfarka70) 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/WarceuProject) <br/>
-[![](https://img.shields.io/reddit/user-karma/link/kklmfir?color=white&label=reddit&logo=reddit&style=social)](http://reddit.com/r/kklmfir)
+[![](https://img.shields.io/reddit/user-karma/link/kklmfir?color=white&label=reddit&logo=reddit&style=social)](http://reddit.com/u/kklmfir)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285759669252?text=Asalamualaikum+bang) <br/>
-[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/kkImfir)
+[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/kklmfir)
 [![](https://img.shields.io/badge/Channel-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/T3l3grannIn9p0lurrr)
 [![](https://img.shields.io/badge/Forum-Group-blue?logo=Telegram&logoColorBrightblue&LabelColor=white)](https://t.me/joinchat/8k7velZ7UjY5NmQ1) <br/>
 #### Donate :
